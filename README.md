@@ -1,4 +1,6 @@
-### Hi there 👋
+### Aaron Morris
+
+I care about intersectionality, community, and software imagination.
 
 <!--
 **AAorris/AAorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
