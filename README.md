@@ -1,6 +1,12 @@
-### Aaron Morris
+### ✨ I care about intersectionality, community, and software imagination.
 
-I care about intersectionality, community, and software imagination.
+![](https://amorris.ca/img/p10.008.jpg)
+
+This is _Mucha_, our tiny house.
+
+### Mainstream [🐦 Twitter](https://twitter.com/AAorris) | [🔗 Linkedin](https://www.linkedin.com/in/aaorris/) | [📸 Instagram](https://www.instagram.com/amorrisa/)
+
+### Alt [🐘 Mastodon](https://merveilles.town/@amorris) | [🔗 Links](https://amorris.ca/links) | [📜 Notes](https://amorris.ca/notes) | [💫 Web Ring](https://webring.xxiivv.com/)
 
 <!--
 **AAorris/AAorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
