@@ -6,3 +6,5 @@
 - Shared secrets, decentralized identity, secure frontend auth
 - 8-ball pool trainer
 - Interactive formulas
+
+[🐦 Twitter](https://twitter.com/AAorris) / [👔 Linkedin](https://linkedin.com/in/AAorris)
