@@ -1,10 +1,1 @@
-# Make programming for *everyone*
-
-## 💭 Top of mind ideas
-
-- Online schooling resources for learning to code
-- Shared secrets, decentralized identity, secure frontend auth
-- 8-ball pool trainer
-- Interactive formulas
-
-[🐦 Twitter](https://twitter.com/AAorris) / [👔 Linkedin](https://linkedin.com/in/AAorris)
+![Screen Shot 2022-07-23 at 7 58 32 PM](https://user-images.githubusercontent.com/1831213/183435421-57cf0765-1f76-48b1-8183-86f585e92755.jpg)
