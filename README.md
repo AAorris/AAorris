@@ -1,1 +1,2 @@
-![Screen Shot 2022-07-23 at 7 58 32 PM](https://user-images.githubusercontent.com/1831213/183435421-57cf0765-1f76-48b1-8183-86f585e92755.jpg)
+![Satisfactory Calculator Screenshot](https://github.com/user-attachments/assets/c88d35b1-c11e-4de3-b75e-a8a7548606de)
+I hack on a [Satisfactory](https://www.satisfactorygame.com/) tool in my spare time — https://satisfactory.morris.codes/
